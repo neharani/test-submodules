@@ -1,3 +1,6 @@
 [submodule "test-common"]
 	path = test-common
 	url = git@github.com:neharani/test-common.git
+[submodule "test-within-common"]
+	path = test-within-common
+	url = git@github.com:neharani/test-within-common.git
